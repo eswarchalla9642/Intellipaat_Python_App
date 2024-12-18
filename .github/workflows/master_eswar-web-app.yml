@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'eswar-web-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_558CE55E84FF45DD9162B4C8FC6C9AB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_859FBA4CD2EE440D832D3312B306A94B }}
